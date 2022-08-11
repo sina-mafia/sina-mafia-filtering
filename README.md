@@ -1,4 +1,4 @@
-hi friends
+hi friends\n
 it's a real filtering code generator
 for install it in termux or linux :
 $ pkg install git -y
